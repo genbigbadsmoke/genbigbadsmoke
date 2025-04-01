@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @genbigbadsmoke
+- 👋 Hi, I’m Richard Adetomi Ogunyemi
 - 👀 I’m interested in Javascript, Node.js with express and mongoDB, Python 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any project i con work on
